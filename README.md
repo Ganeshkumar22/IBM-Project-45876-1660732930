@@ -34,8 +34,8 @@
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40px"> Domain</h2>
 
 <p float="middle" align="center">
-    <img src="https://i.pinimg.com/originals/62/26/43/6226435516042edfe1a4514a44e2023a.gif" width=400>
-    <img src="https://i.pinimg.com/originals/7c/d5/3d/7cd53d36d121d839da9600ca055b01db.gif" width=400>
+    <img src="https://github.com/Aravinthvimal/Shape-Ai-/blob/main/6226435516042edfe1a4514a44e2023a.gif" width=400>
+    <img src="https://github.com/Aravinthvimal/Shape-Ai-/blob/main/7cd53d36d121d839da9600ca055b01db.gif" width=400>
 </p>
 <div align="center">
 <table> 
