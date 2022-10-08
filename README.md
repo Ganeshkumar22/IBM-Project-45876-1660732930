@@ -50,9 +50,19 @@
   <!-- tasks -->
   <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
 
+<h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Ideation Phase </h2>
 - [x] Brainstorm and Ideation <br>
 - [x] Problem Statement <br>
 - [x] Empathy Map <br>
+
+<h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Assignments </h2>
+
+- [x] Problem Solution Fit <br>
+- [x] Proposed Solution <br>
+- [x] Solution Architecture <br>
+
+<h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Assignments </h2>
+
 - [x] Assignment 1 <br>
 - [x] Assignment 2  <br>
     
