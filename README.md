@@ -25,7 +25,7 @@
 <ul>
 <li>Fitness Enthusiasts often tend to worry about their Diet plans and Workout Plans </li>
 <li>The Aim of this project is to help people to abide with their Diet and Workout plans giving them better results </li>
-<li>The predicted output gives them a fair idea about their food they intake on daily basis and enables them to track their plans </li>
+<li>The AI predicted output gives them a fair idea about their food they intake on daily basis and enables them to track their plans </li>
 <li>This analysis is not only for people into fitness, everyone who wishes for a healthy living, this application is for you! </li>
   </i>
   </ul>
@@ -50,8 +50,19 @@
   <!-- tasks -->
   <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Mechanical%20Arm.png" width="40px"> Tasks: </h2>
 
+<h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Ideation Phase </h2>
+
 - [x] Brainstorm and Ideation <br>
 - [x] Problem Statement <br>
 - [x] Empathy Map <br>
+
+<h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Project Design Phase I </h2>
+
+- [x] Problem Solution Fit <br>
+- [x] Proposed Solution <br>
+- [x] Solution Architecture <br>
+
+<h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Assignments </h2>
+
 - [x] Assignment 1 <br>
 - [x] Assignment 2  <br>
