@@ -25,7 +25,7 @@
 <ul>
 <li>Fitness Enthusiasts often tend to worry about their Diet plans and Workout Plans </li>
 <li>The Aim of this project is to help people to abide with their Diet and Workout plans giving them better results </li>
-<li>The predicted output gives them a fair idea about their food they intake on daily basis and enables them to track their plans </li>
+<li>The AI predicted output gives them a fair idea about their food they intake on daily basis and enables them to track their plans </li>
 <li>This analysis is not only for people into fitness, everyone who wishes for a healthy living, this application is for you! </li>
   </i>
   </ul>
