@@ -62,6 +62,11 @@
 - [x] Proposed Solution <br>
 - [x] Solution Architecture <br>
 
+<h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Project Design Phase II </h2>
+
+- [x] Customer Journey Map <br>
+- [x] Technology Stack <br>
+
 <h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Assignments </h2>
 
 - [x] Assignment 1 <br>
