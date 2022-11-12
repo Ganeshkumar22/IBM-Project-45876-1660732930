@@ -69,8 +69,14 @@
 - [x] Solution Requirements <br>
 - [x] Data Flow Diagram and User Stories <br>
 
+<h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Project Planning Phase </h2>
+
+- [x] Milestone and Activities <br>
+- [x] Sprint Delivery Plan <br>
+
 <h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Assignments </h2>
 
 - [x] Assignment 1 <br>
 - [x] Assignment 2  <br>
 - [x] Assignment 3  <br>
+- [x] Assignment 4  <br>
