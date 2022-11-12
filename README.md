@@ -71,7 +71,7 @@
 
 <h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Project Planning Phase </h2>
 
-- [x] Milestone and Activities <br>
+- [x] Milestone and Activity List <br>
 - [x] Sprint Delivery Plan <br>
 
 <h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Assignments </h2>
