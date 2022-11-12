@@ -74,6 +74,12 @@
 - [x] Milestone and Activity List <br>
 - [x] Sprint Delivery Plan <br>
 
+<h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Sprint - 1 </h2>
+
+- [x] Data Collection <br>
+- [x] Image Preprocessing <br>
+- [x] Model Building <br>
+
 <h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Assignments </h2>
 
 - [x] Assignment 1 <br>
