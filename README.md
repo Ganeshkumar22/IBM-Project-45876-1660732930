@@ -86,6 +86,18 @@
 - [x] Hierarchical Data Format 5 file added <br>
 - [x] Model Building <br>
 
+<h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Sprint - 3 </h2>
+
+- [x] UI / UX designs <br>
+- [x] Application tour <br>
+
+<h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Sprint - 4 </h2>
+
+- [x] Python Code Preview <br>
+- [x] UI / UX Code preview <br>
+- [x] Completer Application Tour <br>
+- [x] Model deployment and training on IBM Cloud <br>
+
 <h2> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Gear.png" width="20px"> Assignments </h2>
 
 - [x] Assignment 1 <br>
